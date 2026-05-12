@@ -9,3 +9,4 @@ C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder
 C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\refint\ForestBuilder.Core.dll
 C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.pdb
 C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ref\ForestBuilder.Core.dll
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.sourcelink.json

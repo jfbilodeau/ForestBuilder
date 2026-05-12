@@ -1,2 +1,6 @@
 <Solution>
+  <Project Path="ForestBuilder.Core/ForestBuilder.Core.csproj" />
+  <Project Path="ForestBuilder.Tests/ForestBuilder.Tests.csproj" />
+  <Project Path="ForestBuilder.Web/ForestBuilder.Web.csproj" />
+  <Project Path="ForestBuilder/ForestBuilder.csproj" />
 </Solution>
