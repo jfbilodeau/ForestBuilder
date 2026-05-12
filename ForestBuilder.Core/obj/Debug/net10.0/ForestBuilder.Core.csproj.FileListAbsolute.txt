@@ -1,0 +1,11 @@
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\bin\Debug\net10.0\ForestBuilder.Core.deps.json
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\bin\Debug\net10.0\ForestBuilder.Core.dll
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\bin\Debug\net10.0\ForestBuilder.Core.pdb
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.AssemblyInfoInputs.cache
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.AssemblyInfo.cs
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.csproj.CoreCompileInputs.cache
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.dll
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\refint\ForestBuilder.Core.dll
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ForestBuilder.Core.pdb
+C:\Users\jbilodeau\tmp\100566\ForestBuilder.Core\obj\Debug\net10.0\ref\ForestBuilder.Core.dll
